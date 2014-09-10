@@ -34,4 +34,4 @@ And to your .gwt.xml file:
 	<inherits name="com.bytebybyte.gwt.jquery.JQueryLib" />
 	...
 </module>
-```xml
+```
