@@ -1,17 +1,7 @@
 gwt-jquery-lib
 ==============
 
-JQuery Library for GWT projects
-
-# Installation
-
-Install the package For use as a dependency in other projects locally:
-
-> mvn clean install
-
-Or deploy it to your company repository:
- 
-> mvn clean deploy
+[JQuery](jquery.com) Library for GWT projects.
 
 # Usage
 
@@ -21,7 +11,7 @@ Add the dependency to your Maven POM:
 <dependency>
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>jquery-lib</artifactId>
-	<version>2.1.1-SNAPSHOT</version>
+	<version>2.1.1</version>
 	<scope>provided</scope>
 </dependency>
 ```
