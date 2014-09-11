@@ -1,7 +1,7 @@
 gwt-jquery-lib
 ==============
 
-[JQuery](jquery.com) Library for GWT projects.
+[JQuery](http://jquery.com) Library for GWT projects.
 
 # Usage
 
