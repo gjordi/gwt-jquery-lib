@@ -8,7 +8,7 @@ public interface JQueryLibClientBundle extends ClientBundle {
 
 	public final static JQueryLibClientBundle INSTANCE = GWT.create(JQueryLibClientBundle.class);
 
-	@Source("jquery/jquery-2.1.1.min.js")
+	@Source("jquery/jquery-2.1.3.min.js")
 	TextResource jquery();
 
 }
